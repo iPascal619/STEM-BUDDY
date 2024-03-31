@@ -1,6 +1,6 @@
 # STEM-BUDDY
 
-Welcome to STEM Buddy - your ultimate destination for exploring the fascinating world of Science, Technology, Engineering, and Mathematics (STEM)! This web application provides an interactive platform for learners of all ages to engage with STEM content through courses, activities, and resources.
+Welcome to STEM Buddy - your ultimate destination for exploring the fascinating world of Science, Technology, Engineering, and Mathematics (STEM)! This web application provides an interactive platform for young learners to engage with STEM content through courses, activities, and resources.
 
 ## Overview
 
@@ -41,5 +41,5 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ## Contact
 
-If you have any questions or suggestions regarding STEM Buddy, feel free to contact us at c.onuoha@alustudent.com
+If you have any questions or suggestions regarding STEM Buddy, feel free to contact me at c.onuoha@alustudent.com
 Thank you for using STEM Buddy!
