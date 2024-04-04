@@ -8,8 +8,10 @@ function handleLogin() {
     // For demonstration purposes, let's assume the login is successful
     
     // Redirect to the sdashboard page
-    window.location.href = 'Sdashboard.html';
+    window.location.href = '/Sdashboard.html';
 }
+
+
 
 // Event listener for switching to sign-up mode
 sign_up_btn.addEventListener("click", () => {
