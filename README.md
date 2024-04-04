@@ -23,6 +23,9 @@ To run STEM Buddy locally on your machine, follow these steps:
 4. Start the development server by navigating to index.html folder and right click
 5. select option to use live server or get a live preview from on the web
 
+## URL
+To access STEM BUDDY online , Click on the link : https://stem-buddy.netlify.app/
+
 ## Technologies Used
 
 - HTML, CSS, JavaScript for the frontend
